@@ -1,42 +1,56 @@
-# Tugas Sesi 5 - Tic Tac Toe
+# Welcome to your Expo app 👋
 
-## Identitas
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-Nama : Henry  
-NIM : 41155050200074
+## Get started
 
----
+1. Install dependencies
 
-## Deskripsi
+   ```bash
+   npm install
+   ```
 
-Pembuatan game Tic Tac Toe menggunakan React Native.
+2. Start the app
 
-## Tujuan
+   ```bash
+   npx expo start
+   ```
 
-- Mempelajari state management pada React Native
-- Membuat logika permainan sederhana
+In the output, you'll find options to open the app in a
 
-## Tools
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-- React Native
-- VSCodium
-- Android Studio
+You can start developing by editing the files inside the **src/app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Fitur
+## Get a fresh project
 
-- Pemain X dan O
-- Deteksi pemenang
-- Reset permainan
+When you're ready, run:
 
-## Cara Kerja
+```bash
+npm run reset-project
+```
 
-Pemain secara bergantian memilih kotak permainan hingga mendapatkan tiga simbol yang sejajar.
+This command will move the starter code to the **example** directory and create a blank **src/app** directory where you can start developing.
 
-## Hasil
+### Other setup steps
 
-Game berhasil dijalankan pada emulator Android.
+- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
+- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
+- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
 
+## Learn more
 
-## Kesimpulan
+To learn more about developing your project with Expo, look at the following resources:
 
-Tic Tac Toe berhasil dibuat menggunakan React Native dengan fitur penentuan pemenang dan restart game.
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
