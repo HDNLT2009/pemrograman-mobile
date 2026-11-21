@@ -8,7 +8,7 @@ Universitas : Universitas Langlang Buana
 # Tugas Sesi 2
 
 ## Judul
-Pembuatan Aplikasi React Native Sederhana
+Pembuatan Aplikasi MIT app Inventor
 
 ## Tujuan
 Mempelajari dasar pembuatan aplikasi Android menggunakan React Native.
@@ -26,7 +26,7 @@ Aplikasi berhasil dijalankan pada emulator Android.
 # Tugas Sesi 3
 
 ## Judul
-Pengembangan Prototype React Native
+Prototype React Native
 
 ## Metode
 Prototyping
