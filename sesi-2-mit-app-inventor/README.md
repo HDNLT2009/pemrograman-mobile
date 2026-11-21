@@ -1,10 +1,27 @@
-# Tugas Sesi 2
+# Tugas Sesi 2 - MIT App Inventor
 
-## MIT App Inventor
+## Tujuan
 
-Aplikasi dibuat menggunakan MIT App Inventor.
+Membuat aplikasi Android menggunakan MIT App Inventor.
 
-## File
-- APK
-- Screenshot aplikasi
-- Screenshot blocks
+## Tools
+
+- MIT App Inventor
+- Android Emulator / Smartphone
+
+## Fitur
+
+- Menampilkan informasi
+- Tombol interaksi pengguna
+
+## Hasil
+
+Aplikasi berhasil dibuat dan diekspor menjadi file APK.
+
+## Screenshot
+
+(Tambahkan gambar)
+
+## File APK
+
+File APK terdapat pada folder ini.
